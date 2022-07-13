@@ -1,4 +1,4 @@
-import { h } from 'preact';
+import { h, JSX } from 'preact';
 import { useReducer } from 'preact/hooks';
 import { ActionModel } from '../types/Models';
 import { StateType } from '../types/StateType';
